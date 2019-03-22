@@ -2036,6 +2036,7 @@ Submit a pull request with a link to your solution in this [file](https://github
 * [Steven' Solution (Easy)](https://github.com/DuckEggs/google-homepage.git) - [View in Browser](https://duckeggs.github.io/google-homepage/)
 * [Brandon's Solution (Easy)](https://github.com/bwkrayb/google-homepage-2) - [View in Browser](https://bwkrayb.github.io/google-homepage-2/)
 * [Javier's Solution (Easy)](https://github.com/javialeman/google-homepage) - [View in Browser](https://javialeman.github.io/google-homepage/)
+* [Adriel Bruno's Solution (Easy)](https://github.com/AdrielTrigger/odinproject_googleclone.git) - [View in Browser](https://AdrielTrigger.github.io/odinproject_googleclone/)
 
 
 </details>
